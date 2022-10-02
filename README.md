@@ -1,3 +1,4 @@
 # Subway-Fundamental-Diagram
 
-NYC MTA turnstile Data
+Subway turnstile Data by MTA
+http://web.mta.info/developers/turnstile.html
