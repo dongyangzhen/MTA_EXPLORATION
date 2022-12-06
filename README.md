@@ -41,12 +41,26 @@ Analysis, visualization and simulation of NYC subway system.
 
 ### Speed per Stop and Hour of the Day
 
-<img src="./Media/Speed_heatmap.png" width="600" height="400">
+<img src="./Media/Speed_heatmap.png" width="500" height="350">
 
-
+** To Do
+* Plot Subway Fundamental Diagram based on simulation
+* Conduct System simulation on Anylogic
 
 
 ## Acknowledgments
 
 Inspiration:
-* 
+* [GTFS_transit_visualizer](https://github.com/rev3rend/GTFS_transit_visualizer)
+* [NYC-Transport](https://github.com/r-shekhar/NYC-transport)
+* [nycturnstiles](https://github.com/chriswhong/nycturnstiles)
+* [Data Visualization with Processing](https://github.com/juanfrans-courses/DataScienceSocietyWorkshop)
+* [AnyLogic-Models](https://github.com/nitman118/AnyLogic-Models)
+* [transitland-processing-animation](https://github.com/transitland/transitland-processing-animation)
+* [MTADashV](https://github.com/kakun45/MTADashVisualization)
+* [Traffic-Flow-Fundamental-Diagram](https://github.com/ChengTraffic/Traffic-Flow-Fundamental-Diagram)
+* [mta_turnstile_exploratory_data_analysis](https://github.com/vincent-thompson/mta_turnstile_exploratory_data_analysis)
+* [nyc_subway_network](https://github.com/yuanviola/nyc_subway_network)
+* [NYC Turnstile EDA](https://github.com/sauer3/NYC_turnstile_EDA)
+* [New York City Subway Usage](https://toddwschneider.com/dashboards/nyc-subway-turnstiles/#notes)
+* [General Transit Feed Specification](https://gtfs.org/resources/gtfs/)
