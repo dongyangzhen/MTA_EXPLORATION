@@ -21,7 +21,7 @@ Analysis, visualization and simulation of NYC subway system.
 
 ### Route Map & Turnstile Heatmap
 
-<img src="./Media/Route.png" width="500" height="500">  <img src="./Media/Turnstile_heatmap.png" width="500" height="500">
+<img src="./Media/Route.png" width="400" height="400">  <img src="./Media/Turnstile_heatmap.png" width="400" height="400">
 
 ### Turnstile Animation
 
