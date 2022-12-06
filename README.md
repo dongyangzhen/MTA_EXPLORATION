@@ -19,10 +19,25 @@ Analysis, visualization and simulation of NYC subway system.
 
 ## Turnstile Visulalizaton
 
+### Route Map & Turnstile Heatmap
+
+<img src="./Media/Route.png" width="500" height="500">  <img src="./Media/Turnstile_heatmap.png" width="500" height="500">
+
+### Turnstile Animation
+
+<img src="./Media/Turnstile_animation.gif" width="500" height="500">
 
 
+## GTFS Visualization
+
+### Flow Segment & Speed Segment
+
+<img src="./Media/Flow_segment.png" width="500" height="500">  <img src="./Media/Speed_segment.png" width="500" height="500">
 
 
+### Headway animations
+
+<img src="./Media/Headway_animation.gif" width="400" height="400"> <img src="./Media/Headway_animation2.gif" width="600" height="400">
 
 
 
