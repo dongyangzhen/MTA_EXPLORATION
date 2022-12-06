@@ -43,7 +43,7 @@ Analysis, visualization and simulation of NYC subway system.
 
 <img src="./Media/Speed_heatmap.png" width="500" height="350">
 
-** To Do
+## To Do
 * Plot Subway Fundamental Diagram based on simulation
 * Conduct System simulation on Anylogic
 
