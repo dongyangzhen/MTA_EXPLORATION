@@ -37,7 +37,7 @@ Analysis, visualization and simulation of NYC subway system.
 
 ### Headway animations
 
-<img src="./Media/Headway_animation.gif" width="350" height="350"> <img src="./Media/Headway_animation2.gif" width="400" height="350">
+<img src="./Media/Headway_animation.gif" width="350" height="350"> <img src="./Media/Headway_animation2.gif" width="450" height="350">
 
 ### Speed per Stop and Hour of the Day
 
