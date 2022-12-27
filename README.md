@@ -2,6 +2,9 @@
 
 Analysis, visualization and simulation of NYC subway system.
 
+<img src="./Media/Network Animation.gif" width="200" height="350">
+
+
 ## Datasets
 
 ### GTFS feed: MTA New York City Transit (MTA)
