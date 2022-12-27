@@ -2,7 +2,7 @@
 
 Analysis, visualization and simulation of NYC subway system.
 
-[<img src="./Media/Network Animation.gif" width="200" height="350">](https://www.youtube.com/watch?v=aZz5Z0bVK50)
+[<img src="./Media/Network Animation.gif" width="300" height="425">](https://www.youtube.com/watch?v=aZz5Z0bVK50)
 
 
 
