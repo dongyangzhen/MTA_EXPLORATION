@@ -1,4 +1,4 @@
-# NYC Subway Network Exporation
+# NYC Subway Network Exploration
 
 Analysis, visualization and simulation of NYC subway system.
 
